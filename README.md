@@ -4,7 +4,7 @@ Week 12 In Class Build
 # Repository Requirements
 This repo uses [chart.js](https://www.jsdelivr.com/package/npm/chart.js)
 
-#MIT Licence
+# MIT Licence
 
 Copyright 2020 Selena Wells
 
